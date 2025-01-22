@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Sudhri",
+    "age": 25,
+    "city": "Bangalore",
+    "amount": 1500
+  },
+  {
+    "id": 2,
+    "name": "Sudhri",
+    "age": 25,
+    "city": "Bangalore",
+    "amount": 1500
+  },
+  {
+    "id": 3,
+    "name": "Sudhri",
+    "age": 25,
+    "city": "Bangalore",
+    "amount": 1500
+  },
+  {
+    "id": 4,
+    "data": {
+      "name": "Sam",
+      "age": 35,
+      "city": "Chennai",
+      "amount": 3500
+    }
+  },
+  {
+    "name": "John",
+    "age": 30,
+    "city": "New York",
+    "amount": 1500
+  }
+]
